@@ -65,28 +65,6 @@ __5. Can change [deep_sort_yolov3/yolo.py] `__Line 100__` to your tracking objec
 
 [cosine_metric_learning](https://github.com/nwojke/cosine_metric_learning) for training a metric feature representation to be used with the deep_sort tracker.
 
-## Citation
-
-### YOLOv3 :
-
-    @article{yolov3,
-    title={YOLOv3: An Incremental Improvement},
-    author={Redmon, Joseph and Farhadi, Ali},
-    journal = {arXiv},
-    year={2018}
-    }
-
-### Deep_SORT :
-
-    @inproceedings{Wojke2017simple,
-    title={Simple Online and Realtime Tracking with a Deep Association Metric},
-    author={Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich},
-    booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
-    year={2017},
-    pages={3645--3649},
-    organization={IEEE},
-    doi={10.1109/ICIP.2017.8296962}
-    }
 
     @inproceedings{Wojke2018deep,
     title={Deep Cosine Metric Learning for Person Re-identification},
