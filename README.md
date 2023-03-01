@@ -63,22 +63,7 @@ __5. Can change [deep_sort_yolov3/yolo.py] `__Line 100__` to your tracking objec
 ## Train on Market1501 & MARS
 *People Re-identification model*
 
-[cosine_metric_learning](https://github.com/nwojke/cosine_metric_learning) for training a metric feature representation to be used with the deep_sort tracker.
-
-
-    @inproceedings{Wojke2018deep,
-    title={Deep Cosine Metric Learning for Person Re-identification},
-    author={Wojke, Nicolai and Bewley, Alex},
-    booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-    year={2018},
-    pages={748--756},
-    organization={IEEE},
-    doi={10.1109/WACV.2018.00087}
-    }
-    
-## Reference
-#### Github:deep_sort@[Nicolai Wojke nwojke](https://github.com/nwojke/deep_sort)
-#### Github:deep_sort_yolov3@[Qidian213 ](https://github.com/Qidian213/deep_sort_yolov3)
+[cosine_metric_learning](https://github.com/nwojke/cosine_metric_learning) for training a metric feature representation to be used with the deep_sort tracke
 
 
 
